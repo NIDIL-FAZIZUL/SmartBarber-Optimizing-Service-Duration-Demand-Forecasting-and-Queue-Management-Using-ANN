@@ -11,3 +11,9 @@
 1. The system shall ... (include a number, for example "within 2 seconds")
 2. The system shall ...
 3. The system shall ...
+
+FR1: The system shall allow staff to scan product barcodes using the mobile camera.
+
+FR2: The system shall track product expiry dates and notify managers of near-expiry items.
+
+NFR1: The system response time for barcode lookups shall be under 2 seconds.
